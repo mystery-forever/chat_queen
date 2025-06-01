@@ -106,11 +106,6 @@ chat_queen/
 
 ---
 
-## License
-
-[MIT](LICENSE) or your preferred license.
-
----
 
 ## Credits
 
