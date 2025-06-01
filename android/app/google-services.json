@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327055931373",
+    "project_id": "chatqueen-85c89",
+    "storage_bucket": "chatqueen-85c89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327055931373:android:529165916479bfaa7699e4",
+        "android_client_info": {
+          "package_name": "com.example.chat_queen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3o75aEMrCcVJbwlmwL4LRZrSG_PzbJ0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
